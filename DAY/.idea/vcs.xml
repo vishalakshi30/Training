@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+<<<<<<< HEAD
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+=======
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+<<<<<<< HEAD
+>>>>>>> 9c00a3817f244d73f53e4f04b0b5650c26e4ad04
+=======
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+>>>>>>> 132ba25 (completed Strings, Garbage Collection, Exception handling started day 5)
+  </component>
+</project>

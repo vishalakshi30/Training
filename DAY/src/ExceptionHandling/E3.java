@@ -1,0 +1,16 @@
+package ExceptionHandling;
+
+public class E3 {
+     static void checkAge(int age){
+        if(age>=18){
+            System.out.println("Eligible-Access Granted!");
+        }else{
+            throw new RuntimeException("not eligible-access denied");//we are not handling instead we are throwing an error
+        }
+    }
+    public static void main(String[] args) {
+        checkAge(20);
+        checkAge(12);
+        
+    }
+}
